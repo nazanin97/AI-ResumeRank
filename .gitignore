@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+your-service-account.json
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+venv/
